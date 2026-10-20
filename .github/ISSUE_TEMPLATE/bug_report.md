@@ -5,7 +5,7 @@ labels: bug
 ---
 
 **Game version:** PAL (SLES-53974) / USA (SLUS-21207)
-**How you installed the mod:** patched ISO (xdelta) / PCSX2 .pnach (which entries are on?)
+**How you installed the mod:** patched ISO (xdelta) with Delta Patcher / xdelta3
 **Emulator and version:** e.g. PCSX2 2.x, AetherSX2/NetherSX2, real PS2 + OPL
 
 **What happened:**
