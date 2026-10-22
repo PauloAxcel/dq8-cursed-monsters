@@ -15,6 +15,7 @@ Free mod. It contains only the mod's own code: you need your own copy of the gam
 ## Download
 
 Get `DQ8_CursedMonsters_v1.0.zip` from the [Releases page](https://github.com/PauloAxcel/dq8-cursed-monsters/releases).
+It's also on itch.io: https://pauloaxcel.itch.io/dq8-cursed-monsters (the same zip).
 
 ## Essential Features
 
