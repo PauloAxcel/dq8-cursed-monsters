@@ -8,6 +8,10 @@ world in place of the hero.
 
 Free mod. It contains only the mod's own code: you need your own copy of the game.
 
+[![Watch the trailer](media/trailer.jpg)](https://youtu.be/aSksGuMsIC8)
+
+**Trailer:** https://youtu.be/aSksGuMsIC8
+
 ## Download
 
 Get `DQ8_CursedMonsters_v1.0.zip` from the [Releases page](https://github.com/PauloAxcel/dq8-cursed-monsters/releases).
