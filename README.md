@@ -9,8 +9,8 @@ world in place of the hero.
 Free mod. It contains only the mod's own code: you need your own copy of the game.
 
 <p>
-  <img src="media/death_move.gif" width="400" alt="A death move ordered by the player: Magic Burst">
   <a href="https://youtu.be/aSksGuMsIC8"><img src="media/trailer.jpg" width="400" alt="Watch the trailer"></a>
+  <img src="media/death_move.gif" width="400" alt="A death move ordered by the player: Magic Burst">
 </p>
 
 **Trailer:** https://youtu.be/aSksGuMsIC8
