@@ -8,9 +8,15 @@ world in place of the hero.
 
 Free mod. It contains only the mod's own code: you need your own copy of the game.
 
-[![Watch the trailer](media/trailer.jpg)](https://youtu.be/aSksGuMsIC8)
+<p>
+  <img src="media/death_move.gif" width="400" alt="A death move ordered by the player: Magic Burst">
+  <a href="https://youtu.be/aSksGuMsIC8"><img src="media/trailer.jpg" width="400" alt="Watch the trailer"></a>
+</p>
 
 **Trailer:** https://youtu.be/aSksGuMsIC8
+
+[![Download on itch.io](https://img.shields.io/badge/itch.io-download-FA5C5C?logo=itchdotio&logoColor=white)](https://pauloaxcel.itch.io/dq8-cursed-monsters)
+[![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-support%20the%20next%20mod-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/pauloaxcel)
 
 ## Download
 
