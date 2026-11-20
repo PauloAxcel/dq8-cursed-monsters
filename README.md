@@ -9,8 +9,8 @@ world in place of the hero.
 Free mod. It contains only the mod's own code: you need your own copy of the game.
 
 <p>
-  <a href="https://youtu.be/aSksGuMsIC8"><img src="media/trailer.jpg" width="400" alt="Watch the trailer"></a>
   <img src="media/death_move.gif" width="400" alt="A death move ordered by the player: Magic Burst">
+  <a href="https://youtu.be/aSksGuMsIC8"><img src="media/trailer.jpg" width="400" alt="Watch the trailer"></a>
 </p>
 
 **Trailer:** https://youtu.be/aSksGuMsIC8
@@ -73,6 +73,14 @@ Then boot the patched ISO as usual (PCSX2 or any PS2 emulator). It has every fea
   are not listed (on Auto they work).
 - Fights the story wants the humans for (the Sea Dragon and the Sun Mirror, Rhapthorne's shield): choose **Away** in
   the battle menu so the humans fight.
+- On Manual, the normal attack and the desperate attack sometimes hit a different enemy than the one you chose
+  (spells and group attacks hit the right one). Fix planned for the next update.
+- Some of the strongest late-game "monsters" don't get along in one team: they can stand in a T-pose, and the game can
+  crash on their status screen or in battle. Keep them in separate teams; a few of their special moves also don't work
+  yet.
+- Monsters without a walking model leave the hero on the field when they lead.
+- If a late story scene stays on a black screen, take your monsters out of the team (Misc → Monster Team) and try the
+  scene again.
 - Untested on real PS2 hardware and loaders such as OPL.
 
 ## Future work
